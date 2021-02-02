@@ -1,4 +1,4 @@
-package Model;
+import Model.Film;
 
 import java.util.Comparator;
 import java.util.List;
